@@ -1,2 +1,3 @@
-# ReactJs_01
-Primeiros testes com React
+# ReactJS_01
+Primeiros testes com React.
+
